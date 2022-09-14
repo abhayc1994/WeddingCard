@@ -344,14 +344,15 @@
 }
 
 .sakura {
-	background: #674ea7;
+	background: #ad0540;
 }
 
 
 /*******************************/
 
 body {
-	font-family: Arial, Helvetica, Sans-serif;
+	font-family: Arial, Helvetica, Sans-serif; 
+	background-image: url('https://raw.githubusercontent.com/abhayc1994/weddingFIles/main/bg.jpg'); 
 }
 
 img {
@@ -385,7 +386,7 @@ img {
 	font-style: normal;
 	font-size: 60px;
 	margin: 32px 0;
-	color: #674ea7;
+	color: #a11303;
 }
 
 .title h2 {
@@ -404,7 +405,7 @@ img {
 	font-weight: bolder;
 	font-style: normal;
 	font-size: 32px;
-	color: #674ea7;
+	color: #ad0540;
 	margin: 16px;
 	text-align: center;
 }
@@ -414,12 +415,12 @@ img {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-size: 24px;
-	color: #674ea7;
+	color: #ad0540;
 	margin-top: 5px;
 }
 
 .title p {
-	color: #564861;
+	color: #ad0540;
 	margin: 30px 0 20px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -474,7 +475,7 @@ body {
 .venue {
 	width: auto;
 	height: auto;
-	background-color: #674ea7;
+	background-color: #ad0540;
 	border-radius: 16px;
 	text-align: center;
 	color: #fff;
@@ -521,17 +522,17 @@ body {
 }
 
 .date {
-	color: #874562;
+	color: #c6095b;
 	font-weight: 900;
 }
 
 .place {
-	color: #874562;
+	color: #c6095b;
 	font-weight: 900;
 }
 
 .footer {
-	color: #564861;
+	color: #c6095b;
 	text-align: center;
 	font-size: 16px;
 	margin: 24px;
@@ -557,7 +558,7 @@ a {
 }
 
 .happiness {
-	color: #874562;
+	color: #81043a;
 	font-size: 24px;
 	font-weight: bold;
 	text-align: center;
