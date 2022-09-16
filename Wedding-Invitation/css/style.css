@@ -580,7 +580,7 @@ a {
   background-color: rgb(var(--ig-highlight-background));
   display: flex;
   display: inline-block;
-  width: 100%;
+  width: 150%;
 }
 .image {
   display: block;
