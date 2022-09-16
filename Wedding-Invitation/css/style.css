@@ -578,3 +578,18 @@ a {
 	font-size: 12px;
 	letter-spacing: 0pt;
 }
+.img{
+	background-color: rgb(var(--ig-highlight-background));
+    display: block;
+    width: 100%;
+    position: relative;
+}
+.image{
+    width: 268px; ;
+     height: 268px;;
+		bottom: 0;
+		left: 0;
+		position: absolute;
+		right: 0;
+		top: 0; 
+}
