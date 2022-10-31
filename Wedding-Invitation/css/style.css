@@ -589,3 +589,14 @@ a {
   max-width:100%;
   max-height:90vh;
 }
+@keyframes example {
+  from {background-color: transparent;}
+  to {background-color: rgb(89 26 42);}
+  
+}
+a.dance-med{
+  animation-name: example;
+  animation-duration:2s;
+  animation-iteration-count: infinite;
+  border-radius: 20px;
+}
